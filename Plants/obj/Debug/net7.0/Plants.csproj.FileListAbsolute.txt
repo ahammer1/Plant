@@ -1,0 +1,5 @@
+C:\Users\ahamm\CsharpProjects\Plants\Plants\obj\Debug\net7.0\Plants.csproj.AssemblyReference.cache
+C:\Users\ahamm\CsharpProjects\Plants\Plants\obj\Debug\net7.0\Plants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahamm\CsharpProjects\Plants\Plants\obj\Debug\net7.0\Plants.AssemblyInfoInputs.cache
+C:\Users\ahamm\CsharpProjects\Plants\Plants\obj\Debug\net7.0\Plants.AssemblyInfo.cs
+C:\Users\ahamm\CsharpProjects\Plants\Plants\obj\Debug\net7.0\Plants.csproj.CoreCompileInputs.cache
